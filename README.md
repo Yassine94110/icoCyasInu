@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# ICO du CyasInu
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![image](https://user-images.githubusercontent.com/108271386/221433202-1f4b638b-6f5d-401f-93fb-515467938196.png)
